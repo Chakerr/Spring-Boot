@@ -1,4 +1,4 @@
-# Spring Boot
+# Framework: Spring Boot
 # Índice
 
 1. [Introducción a Spring Boot](#introducción)
